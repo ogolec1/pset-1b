@@ -1,0 +1,131 @@
+* {
+  margin: 1;
+  padding: 1;
+}
+
+body {
+  background-color: #FFFDD0;
+}
+
+h1 {
+  font-size: 70px;
+  font-family: Impact, fantasy;
+}
+
+h2 {
+  font-family: FreeMono, monospace;
+  font-size: 45px;
+}
+
+p {
+  font-family: Courier, monospace;
+  font-size: 18px;
+}
+
+header {
+  font-size: 20px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+  color: black;
+  padding: 30px;
+  background-color: #FEC5E5;
+  border: 3px solid white;
+}
+
+footer {
+  font-size: 20px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: left;
+}
+
+a:hover {
+  color: #89CFF0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.center2 {
+  text align: center;
+  line-height: 50%;
+}
+
+.section-content {
+  color: black;
+  font-size: 23px;
+  font-weight: normal;
+}
+
+a[title] {
+  color: #89CFF0;
+  font-size: 50px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: justify;
+}
+
+a[href="https://www.ucvts.tec.nj.us/"] {
+  color: black;
+}
+
+a[href="https://www.ucvts.tec.nj.us/Page?752"] {
+  color: black;
+}
+
+p~ul {
+  color: black;
+}
+
+a[href="https://www.ucvts.tec.nj.us/domain/107"] {
+  color: pink;
+  font-size: 30px;
+}
+
+a[href="https://www.centralpark.com/visitor-info"] {
+  color: pink;
+  font-size: 30px;
+}
+
+a[href="http://www.pointpleasantbeach.org"] {
+  color: pink;
+  font-size: 30px;
+}
+
+a[href="https://www.simon.com/mall/menlo-park-mall/about"] {
+  color: pink;
+  font-size: 30px;
+}
+
+a[href="https://travel.usnews.com/Hotels/Best-All-Inclusive-Resorts-in-Punta_Cana_Dominican_Republic/"] {
+  color: pink;
+  font-size: 30px;
+}
+
+a[href="https://buschgardens.com/williamsburg/rides/"] {
+  color: pink;
+  font-size: 30px;
+}
+
+a[href="http://www.krakow-info.com/krakow.htm"] {
+  color: pink;
+  font-size: 30px;
+}
+
+#color1 {
+  color: #F18DBC;
+}
+
+#color2 {
+  color: #89CFF0;
+}
+
+#color3 {
+  color: #654321
+}
+
+a {
+  color: white
+}
